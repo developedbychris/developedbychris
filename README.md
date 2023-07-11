@@ -10,7 +10,7 @@
 
 ### ⚒️ Actively working on gaining skills and employment in web development.
 
-<p>I have a fun time learning new skills and have an inate geniune passion for problem solving. Having an extensive background in graphic designing led me to front end web development, but I also love tinkering with things on the back end. However, I'm primarily focused on front end work for now.</p>
+<p>I have a fun time learning new skills and have an innate genuine passion for problem-solving. Having an extensive background in graphic designing led me to front-end web development, but I also love tinkering with things on the back end. However, I'm primarily focused on front-end work for now.</p>
 
 ##
 
