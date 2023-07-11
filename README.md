@@ -39,20 +39,6 @@
 </p>
 
 ##
-
-<h4 align="center">Tools & Bundlers</h4>
-
-<p align="center">
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-  <a href="https://clockify.me" target="_blank" rel="noreferrer"><img src="https://clockify.me/assets/images/brand-assets/clockify-icon.png" width="36" height="36" alt="Clockify" /></a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://vitejs.dev"><img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" width="36" height="36" alt="vite logo"></a>
-  <a href="https://swc.rs"><img src="https://raw.githubusercontent.com/swc-project/logo/master/swc.png" width="46" height="36" alt="swc logo"></a>
-  
-</p>
-
-##
-
 <h4 align="center">Back End</h4>
 
 <p align="center">
@@ -60,6 +46,19 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
   <a href="https://strapi.io" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/7b181416931b19e4f5c19a139a9f8609621f9b8350f266f543bf19f93c7bf219/68747470733a2f2f7374726170692e696f2f6173736574732f7374726170692d6c6f676f2d6c696768742e737667" width="70" height="36" alt="Strapi" /></a>
 </p>
+
+
+##
+<h4 align="center">Tools & Bundlers</h4>
+
+<p align="center">
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://vitejs.dev"><img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" width="36" height="36" alt="vite logo"></a>
+  <a href="https://swc.rs"><img src="https://raw.githubusercontent.com/swc-project/logo/master/swc.png" width="46" height="36" alt="swc logo"></a>
+  
+</p>
+
 
 <br>
 <br>
