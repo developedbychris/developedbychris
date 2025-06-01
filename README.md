@@ -8,8 +8,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&duration=1500&pause=1500&width=435&lines=Welcome+to+my+Github!;I'm+currently+working+with%3A;Next.js%2C+React%2C+and+TailwindCSS++%F0%9F%98%81" alt="Typing SVG" /></a>
 
-### ⚒️ Actively working on gaining skills and employment in web development.
-
 <p>I have a fun time learning new skills and have an innate genuine passion for problem-solving. Having an extensive background in graphic designing led me to front-end web development, but I also love tinkering with things on the back end. However, I'm primarily focused on front-end work for now.</p>
 
 ##
